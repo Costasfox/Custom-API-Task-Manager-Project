@@ -65,4 +65,4 @@ This project is free to use and modify. Please credit the author if you use or d
 ## Author
 
 CostasCh
-GitHub: [Costasfox](https://github.com/Costasfox/tasks)
+GitHub: [Costasfox](https://github.com/Costasfox/Custom-API-Task-Manager-Project)
